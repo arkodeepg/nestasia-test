@@ -1,0 +1,12 @@
+home
+collection
+search
+profile
+address 
+product
+wishlist
+order
+	rate
+	comment
+	multiple rating
+	shipping details
